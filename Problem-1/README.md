@@ -11,4 +11,4 @@ Input: 								output
 		3							
 		100							even
 		0							even
-		1111						odd
+		1111							odd
