@@ -1,5 +1,5 @@
 # Description of the problem : 
-<span style="font-family: 'Arial'; font-size: 16px;">
+
 Find all factors (divisors) of a number.
 
 ### input: 
@@ -9,7 +9,6 @@ The first line will contain the number of test cases `T(<=10)`. Next T-one integ
 ### output :
 
 One line should be printed for each case, beginning with the case number. After that All factors of should be printed in ascending order. Each factor should be printed only once. Factors must be separated by a space only. There will be no extra spaces at the end of the line.
-</span>
 
 
 	 input 						output 
