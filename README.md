@@ -47,17 +47,16 @@ Feel free to explore and choose problems according to the concepts you want to p
 
 If you'd like to contribute a new solution, improve an existing one, or add a new problem, please follow these guidelines:
 
-    Fork the repository.
+   -Fork the repository.
 
-    Create a new branch for your contribution.
+   -Create a new branch for your contribution.
 
-    Make your changes and ensure that the code adheres to the project's coding standards.
+   -Make your changes and ensure that the code adheres to the project's coding standards.
 
-    Test your changes thoroughly.
+   -Test your changes thoroughly.
 
-    Submit a pull request, explaining the purpose and details of your changes.
+   -Submit a pull request, explaining the purpose and details of your changes.
 
-## License
 
 ## License
 
