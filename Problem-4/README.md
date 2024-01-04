@@ -1,4 +1,4 @@
-Description of the problem : 
+# Description of the problem : 
 
 Find all factors (divisors) of a number.
 
