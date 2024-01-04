@@ -1,4 +1,4 @@
-#Description of the problem :
+<h1>Description of the problem :</h1>
 
  You will be told the length of one side of the square, and you will quickly *draw the square using '*'. Not only should the sides of the square be drawn, but the inner cells *should also be filled in.
 
