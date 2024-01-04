@@ -14,14 +14,14 @@ each N for NxN. Draw the square. Complete the square with Each square should be 
 
 	3
 
-	1							*
+	1						*
 
-	3							***
-								***
-								***
+	3						***
+							***
+							***
 
-	5							*****
-								*****
-								*****
-								*****
-								*****
+	5						*****
+							*****
+							*****
+							*****
+							*****
