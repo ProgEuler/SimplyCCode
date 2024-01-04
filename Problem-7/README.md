@@ -11,10 +11,11 @@ A number on the first line `T (1 <= T <= 100)` will be then `T`, the more lines 
 How many numbers are there in each line, that should be printed.
 
 
-				| input 	        | output    |
-				| :--------------------:|:---------:|  
-				| 1 -2 10000 -50 20     | 7   	    |
-				| 9    			| 1	    |
-				| -98 876 65   		| 3   	    |
-				| 223 983 212   	| 3         |
+| input               | output |
+| :------------------:|:------:|
+| 4                   |        |
+| 1 -2 10000 -50 20   | 7      |
+| 9                   | 1      |
+| -98 876 65          | 3      |
+| 223 983 212         | 3      |
 
