@@ -14,7 +14,7 @@ How many numbers are there in each line, that should be printed.
 | input               | output |
 |:-------------------:|:------:|
 | 4                   |        |
-| 1 -2 10000 -50 20   |   7    |
+| 1 -2 10000 -50 20   |   5    |
 | 9                   |   1    |
 | -98 876 65          |   3    |
 | 223 983 212         |   3    |
