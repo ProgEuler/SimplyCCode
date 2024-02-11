@@ -4,7 +4,7 @@ Write a program to find whether a number is square or not.
 
 ## input
 
-The first line of input will contain the number of test cases `T(T <= 100)`. After that T- There will be number of lines. Each line will contain an integer `N(0 <= N <= 2<sup>31</sup>)`
+The first line of input will contain the number of test cases `T(T <= 100)`. After that T- There will be number of lines. Each line will contain an integer `N`( `0` <= `N` <= 2<sup>31</sup>)
 
 ## output
 
