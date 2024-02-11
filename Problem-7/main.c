@@ -3,7 +3,10 @@
 
 int main() {
     
-    char line[] = "1 -2 10000 -50 20 7 445";
+    char line[1000000];
+    printf("Enter a line of numbers : ");
+    scanf(" %[^\n]", line);
+
     char *p, *e;
     long input;
     int count = 0;
